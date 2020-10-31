@@ -7,3 +7,5 @@ Myers Briggs is a popular personality test that attempts to classify and describ
 One's myers briggs is usually determined by taking a long online test. Such tests are often subject to confirmation bias as people select answers based on their existing perception of themselves. Additionally, many are unsure about their responses as they fill out these questionaires. Turns out, we do not know as much about ourselves as we think.
 
 Thus, I attempt to use machine learning to learn and predict myers briggs based on something more reliable: people's writing.
+
+[Tableau Public Viz](https://berkeley.zoom.us/j/7928310275)
