@@ -8,4 +8,4 @@ One's myers briggs is usually determined by taking a long online test. Such test
 
 Thus, I attempt to use machine learning to learn and predict myers briggs based on something more reliable: people's writing.
 
-[Tableau Public Viz](https://berkeley.zoom.us/j/7928310275)
+[Tableau Public Viz](https://public.tableau.com/profile/bgood2me#!/vizhome/MyerBriggsTopics/Dashboard1)
