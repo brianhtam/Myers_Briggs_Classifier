@@ -1,6 +1,6 @@
 # Myers-Briggs-classifier
 
-Project 3 Proposal: Classification model that predicts which of the 16 personality types someone fall into based off their social media activity. The data set used is the [kaggle MBTI](https://www.kaggle.com/datasnaek/mbti-type). NLP is used to count vectorize all the tweets for each person and label it with the personality type. Classification is binary for each of the 4 lettets. E/I, N/S, F/T, P/J
+Project 3 Proposal: Classification model that predicts which of the 16 personality types someone fall into based off their social media activity. The data set used is the [kaggle MBTI DataSet](https://www.kaggle.com/datasnaek/mbti-type). NLP is used to count vectorize all the tweets for each person and label it with the personality type. Classification is binary for each of the 4 lettets. E/I, N/S, F/T, P/J
 
 Myers Briggs is a popular personality test that attempts to classify and describe people's unique ways of interacting with the world, making decisions, and process information. There are a total of 16 personalities based on 4 personality traits: 1st introversion or extroversion, 2nd intuitive or sensing, 3rd feeling or thinking, 4th judging or perceiving. Each of the 16 personalities have a unique sequence of 8 functions that describe their cognitive tendencies.
 
