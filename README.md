@@ -9,3 +9,16 @@ One's myers briggs is usually determined by taking a long online test. Such test
 Thus, I attempt to use machine learning to learn and predict myers briggs based on something more reliable: people's writing.
 
 [Tableau Public Viz](https://public.tableau.com/profile/bgood2me#!/vizhome/MyerBriggsTopics/Dashboard1)
+
+OUTLINE:
+DEscribe my project: Context for this project. What is this project?
+talk about my data: preprocessing, features, 4 diff models
+what is each folder
+what is each file
+
+requirements .txt
+
+
+- I made an app
+- I made a Tableau visualization
+- 
