@@ -1,19 +1,7 @@
-# Myers-Briggs-classifier
-
-Project 3 Proposal: Classification model that predicts which of the 16 personality types someone fall into based off their social media activity. The data set used is the [kaggle MBTI DataSet](https://www.kaggle.com/datasnaek/mbti-type). NLP is used to count vectorize all the tweets for each person and label it with the personality type. Classification is binary for each of the 4 lettets. E/I, N/S, F/T, P/J
-
-
-
-[Tableau Public Viz](https://public.tableau.com/profile/bgood2me#!/vizhome/MyerBriggsTopics/Dashboard1)
-
-
-# Stand-Up Comedy Recommender
-
 Check out the app for this project <a href="https://myers-briggs-nlp.herokuapp.com/" target="_blank">here</a> deployed on Heroku.
-Read the blog post for this project <a href="https://medium.com/p/85194950c923/edit" target="_blank">here</a>.
 
 
-### Metis Project 3: Classification and Web Apps
+### Metis Project 3: Classification, NLP, and Web Apps
 
 # Myer's Brigg Classification
 
