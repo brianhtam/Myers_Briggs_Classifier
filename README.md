@@ -3,13 +3,7 @@ Check out the app for this project <a href="https://myers-briggs-nlp.herokuapp.c
 
 ### Metis Project 3: Classification, NLP, and Web Apps
 
-# Myer's Brigg Classification
-
-### Brian Tam
-
-## Goal
-
-The goal of this project is to use machine learning classification methods to determine which of 16 personality types a person most closely falls into, based solely on their writing, to simplify the MBTI classification process. This is a multi-class problem; there are 16 different possibilities, but to simplify our model concept, we are going to split our problem into 4 seperate binary classifications, one for each letter.
+# Myer's Brigg Classification: by Brian Tam
 
 ## Context
 
@@ -18,6 +12,10 @@ Myers Briggs is a popular personality test that attempts to classify and describ
 One's myers briggs is usually determined by taking a long online test. Such tests are often subject to confirmation bias as people select answers based on their existing perception of themselves. Additionally, many are unsure about their responses as they fill out these questionaires. Turns out, we do not know as much about ourselves as we think.
 
 Thus, I attempt to use machine learning to learn and predict myers briggs based on something more reliable: people's writing.
+
+## Goal
+
+The goal of this project is to use machine learning classification methods to determine which of 16 personality types a person most closely falls into, based solely on their writing, to simplify the MBTI classification process. This is a multi-class problem; there are 16 different possibilities, but to simplify our model concept, we are going to split our problem into 4 seperate binary classifications, one for each letter.
 
 ## Methodologies
 - This following dataset was used [MBTI kaggle dataset](https://www.kaggle.com/datasnaek/mbti-type)
