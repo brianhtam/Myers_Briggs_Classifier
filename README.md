@@ -58,12 +58,12 @@ My four models had accuracy scores that ranged from 77% to 90%, improving the li
 
 Sequentially:
 
-- [Data Collection](https://github.com/anterra/yoga-class-ifying/tree/master/data_collection)
-- [EDA and Feature Engineering](https://github.com/anterra/yoga-class-ifying/blob/master/classification_modeling/eda_feature_engineering.ipynb)
-- [Pipeline Modules](https://github.com/anterra/yoga-class-ifying/blob/master/classification_modeling/pipeline_modules.py)
-- [Classification Modeling](https://github.com/anterra/yoga-class-ifying/blob/master/classification_modeling/classification_modeling.ipynb)
-- [Flask App](https://github.com/anterra/yoga-class-ifying/tree/master/flask_app)
-- [Presentation Slides](https://github.com/anterra/yoga-class-ifying/blob/master/presentation/Yoga%20Classification.pdf)
+- [Data_Cleaning](https://github.com/brianhtam/Myers_Briggs_Classifier/blob/main/Data_Cleaning.ipynb)
+- [NLP](https://github.com/brianhtam/Myers_Briggs_Classifier/blob/main/NLP.ipynb)
+- [More_NLP](https://github.com/brianhtam/Myers_Briggs_Classifier/blob/main/More_NLP.ipynb)
+- [Modeling](https://github.com/brianhtam/Myers_Briggs_Classifier/blob/main/Modeling.ipynb)
+- [Heroku App](https://github.com/brianhtam/Myers_Briggs_Classifier/tree/main/heroku_files)
+- [Presentation Slides](https://github.com/brianhtam/Myers_Briggs_Classifier/tree/main/presentation.pdf)
 
 ## Project Team
 
